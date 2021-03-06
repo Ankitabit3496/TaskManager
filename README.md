@@ -1,4 +1,4 @@
-# TaskManager
+# _Task-Manager_
 Developed a Task-manager app using Django that let's you manage your daily tasks in one place.
 
 ## Demo
