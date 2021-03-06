@@ -1,7 +1,7 @@
 # TaskManager
 Developed a Task-manager app using Django that let's you manage your daily tasks in one place.
 
-# Demo
+## Demo
 [Click Here](https://taskmanagerproapp.herokuapp.com/)
 
 ## Features :
@@ -15,7 +15,7 @@ Developed a Task-manager app using Django that let's you manage your daily tasks
 - Jinja 2
 
 ### `Frontend`
-- Bootstrap4
+- Bootstrap 4
 
 ## Author
 [ANKITA](https://github.com/Ankitabit3496)
