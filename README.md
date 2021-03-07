@@ -1,5 +1,5 @@
 # _Task-Manager_
-This Task-Manager application is developed using Django that let's you manage your daily tasks in one place.
+This Task-Manager application is a secure web-app developed using Django that let's you manage your daily tasks in one place.
 
 ## Demo
 [Click Here](https://taskmanagerproapp.herokuapp.com/)
